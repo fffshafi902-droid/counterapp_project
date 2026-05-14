@@ -30,7 +30,7 @@ A simple and intuitive Counter application built with Flutter that demonstrates 
 ### Installation
 
 1.  **Clone the repository**:
-    git clone 
+    git clone https://github.com/fffshafi902-droid/counterapp_project.git
 
 ## Screenshots
 ![home screen](screenshots/home_screen.jpg)
